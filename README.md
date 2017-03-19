@@ -8,6 +8,7 @@ For online advertising, both publishers and advertisers want to target the users
 * **Transaction:** 
 * **Creatives and Creative tags and Video:** 
 * **Ios app metadata and Android apps metadata:**
+
 Note: All concrete features have been removed from sample code due to confidentiality.
 
 ### Model
