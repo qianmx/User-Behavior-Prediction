@@ -2,7 +2,7 @@
 
 ### Introduciton: 
 
-For online advertising, both publishers and advertisers want to target the users with the most ac- curate advertisements, which would generate high conversion. In our case, we want to help Vungle, the leading in-app video advertising platform for performance marketers, to build a model that can accurately predict whether the impression would convert into a installation.
+For online advertising, both publishers and advertisers want to target the users with the most accurate advertisements, which would generate high conversion. In our case, we want to help Vungle, the leading in-app video advertising platform for performance marketers, to build a model that can accurately predict whether the impression would convert into a installation.
 
 ### Data: 
 * **Transaction:** 
